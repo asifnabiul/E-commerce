@@ -23,15 +23,14 @@
         <img src="img/banner4.jpg" alt="New York" style="width:100%;">
         
       </div>
-
-	<div class="item">
+      <div class="item">
         <img src="img/banner5.jpg"  alt="New York"  style="width:50%;">
         
       </div>
       <div class="item">
         <img src="img/banner6.jpg"  alt="New York"  style="width:50%;">
         
-      </div>    
+      </div>
       <div class="item">
         <img src="img/banner1.jpg" alt="New York" style="width:100%;">
         
@@ -414,7 +413,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">MACBOOK</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -427,7 +426,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">HEADPHONE</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -440,7 +439,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">MACBOOK PRO</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -466,7 +465,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">SONY TAB</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -479,7 +478,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">SONY HEADPHONE</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -492,7 +491,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#"> MSI GAMEBOOK</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -507,7 +506,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">SMARTPHONE</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -520,7 +519,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">LAPTOP</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -533,7 +532,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">CAMERA</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -563,7 +562,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">LAPTOP</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -576,7 +575,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">HEADPHONE</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -589,7 +588,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">LAPTOP</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -604,7 +603,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">TABLET</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -618,7 +617,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">HEADPHONE</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
@@ -631,7 +630,7 @@
 									</div>
 									<div class="product-body">
 										<p class="product-category">Category</p>
-										<h3 class="product-name"><a href="#">product name goes here</a></h3>
+										<h3 class="product-name"><a href="#">GAMEBOOK</a></h3>
 										<h4 class="product-price">$980.00 <del class="product-old-price">$990.00</del></h4>
 									</div>
 								</div>
