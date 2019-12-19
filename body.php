@@ -23,6 +23,15 @@
         <img src="img/banner4.jpg" alt="New York" style="width:100%;">
         
       </div>
+
+	<div class="item">
+        <img src="img/banner5.jpg"  alt="New York"  style="width:50%;">
+        
+      </div>
+      <div class="item">
+        <img src="img/banner6.jpg"  alt="New York"  style="width:50%;">
+        
+      </div>    
       <div class="item">
         <img src="img/banner1.jpg" alt="New York" style="width:100%;">
         
