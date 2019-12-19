@@ -47,10 +47,10 @@ include "topheader.php";
                 <h4 class="card-title"> Products List</h4>
                 <div class="btn-group btn-group-toggle float-right" data-toggle="buttons">
                       <label class="btn btn-sm btn-primary btn-simple active" id="0">
-                        <input type="radio" name="options" autocomplete="off" checked=""> electronic
+                        <input type="radio" name="options" autocomplete="off" checked=""> Electronic
                       </label>
                       <label class="btn btn-sm btn-primary btn-simple" id="1">
-                        <input type="radio" name="options" autocomplete="off"> clothes
+                        <input type="radio" name="options" autocomplete="off"> Clothes
                       </label>
                       <label class="btn btn-sm btn-primary btn-simple" id="2">
                         <input type="radio" name="options" autocomplete="off"> Home Appliances
