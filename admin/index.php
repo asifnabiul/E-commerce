@@ -50,7 +50,7 @@ include "topheader.php";
             <div class="col-md-6">
             <div class="card ">
               <div class="card-header card-header-primary">
-                <h4 class="card-title"> Categories List</h4>
+                <h4 class="card-title"> Category List</h4>
               </div>
               <div class="card-body">
                 <div class="table-responsive ps">
@@ -124,7 +124,7 @@ include "topheader.php";
                 <div class="table-responsive ps">
                   <table class="table table-hover tablesorter " id="">
                     <thead class=" text-primary">
-                        <tr><th>ID</th><th>email</th>
+                        <tr><th>ID</th><th>E-mail</th>
                     </tr></thead>
                     <tbody>
                       <?php 
